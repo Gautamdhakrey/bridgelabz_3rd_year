@@ -1,22 +1,19 @@
-# BridgeLabz 3rd Year – Java Practice Repository
+# BridgeLabz 3rd Year – Core Java Practice
 
-This repository contains *Java practice assignments* for BridgeLabz 3rd Year program.  
-The work is organized into different branches for better separation.
-
----
-
-## 📌 Branches Overview
-- *core-java* → Contains all practice problems and solutions  
-  - Programming Elements Practices (Level 1, Level 2)  
-  - Control Flow Practices (Level 1, Level 2, Level 3)  
+This branch contains *Core Java practice assignments*, organized by topics and levels.  
+Each program is written following clean coding principles with proper indentation, comments, and meaningful names.
 
 ---
 
-## 🔗 Quick Access
-👉 [Go to the core-java branch] to view the assignments and code.
+## ✅ Best Programming Practices Followed
+- All values stored in variables (constants, user inputs, results)  
+- Proper naming conventions (camelCase for variables, PascalCase for classes)  
+- Each question implemented in a **separate .java file** with a matching class name  
+- Proper indentation, comments for each logical block  
+- User input handled using Scanner class wherever required  
 
 ---
 
-👨‍💻 Author: GAUTAM SINGH DHAKREY 
-
-📅 Course: BridgeLabz – 3rd Year Java Practice Assignments
+👨‍💻 Author: Gautam Singh Dhakrey 
+ 
+📅 Course: BridgeLabz – 3rd Year Core Java Practice Assignments
