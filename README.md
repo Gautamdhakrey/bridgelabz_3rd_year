@@ -1,94 +1,156 @@
-# ✨ Frontend Development Course Repository ✨  
+<h1 align="center">✨ Frontend Development Course Repository ✨</h1>
 
-### Guided by  
-👨‍🏫 **Sahil Sir**  |  👨‍🏫 **Deepak Sir**
+<p align="center">
+  <b>Guided by:</b> <br>
+  👨‍🏫 <b>Sahil Sir</b> &nbsp;|&nbsp; 👨‍🏫 <b>Deepak Sir</b>  
+</p>
 
-Gautam Singh Dhakrey 
+<p align="center">
+  <i>“Design is intelligence made visible.” </i>
+</p>
 
 ---
 
 ## 🌐 About the Course  
 
-Welcome to the **Frontend Development Repository** — your creative space to explore how the web truly works from the inside out.  
-This course takes you through the fundamentals of **HTML** and **CSS**, blending conceptual understanding with hands-on design and coding.  
+Welcome to the **Frontend Development Repository** — your creative hub to understand how the **web truly works**.  
+From mastering **HTML structure** to crafting elegant **CSS layouts**, this course blends theory with hands-on design.  
 
-Here’s what you’ll find inside this repository:  
+Here you’ll find:
+- 📘 **Lecture notes** with practical examples  
+- 🧩 **Assignments** to sharpen your skills  
+- 🧠 **Mini projects** for real-world experience  
 
-- 📘 **Lecture resources** with clear explanations and examples  
-- 🧩 **Assignments** to strengthen your coding foundation  
-- 🧠 **Mini projects** to apply your skills in real-world scenarios  
-
-> *“Every pixel tells a story — and you’re the storyteller.”*
-
----
-
-## 🧭 Course Roadmap  
-
-### 🟩 **Lecture 1 — Introduction to Web Development**  
-- 🌍 Understanding the internet and the web ecosystem  
-- 🧱 Frontend vs Backend vs Full Stack  
-- 🧰 Setting up tools: VS Code, Git, Live Server  
-- 🧠 How browsers render and display content  
+> “Every pixel tells a story — and you’re the storyteller.”
 
 ---
 
-### 🟨 **Lecture 2 — HTML Fundamentals**  
-- 🏗️ Structure of an HTML document (`<html>`, `<head>`, `<body>`)  
-- 📄 Working with headings, paragraphs, lists, links, and images  
-- 🔖 Semantic layout using `<header>`, `<nav>`, `<section>`, `<footer>`  
-- ♿ Writing accessible and well-structured code  
+## 🧭 Course Journey  
+
+### 🟩 Lecture 1 — *Introduction to Web Development*  
+🌍 Internet fundamentals & the web ecosystem  
+🧱 Frontend vs Backend vs Full Stack  
+🧰 Tools setup: VS Code, Git, Live Server  
+🧠 Browser rendering & developer workflow  
 
 ---
 
-### 🟦 **Lecture 3 — Block & Inline Elements**  
-- 🧩 Understanding element display behavior  
-- 📦 Block elements: `<div>`, `<section>`, `<article>`  
-- 🎯 Inline elements: `<span>`, `<a>`, `<em>`  
-- 🎨 Changing display properties with CSS  
+### 🟨 Lecture 2 — *HTML Fundamentals*  
+🏗️ HTML document anatomy (`<html>`, `<head>`, `<body>`)  
+📄 Headings, paragraphs, lists, links, and images  
+🔖 Semantic structure: `<header>`, `<nav>`, `<section>`, `<footer>`  
+♿ Accessibility best practices  
 
 ---
 
-### 🟧 **Lecture 4 — HTML Iframes**  
-- 🌐 Embedding external resources using `<iframe>`  
-- ⚙️ Key attributes: `src`, `title`, `allowfullscreen`  
-- 🔒 Using `sandbox` and `referrerpolicy` for security  
-- 🎞️ Practical example — embedding a YouTube video  
+### 🟦 Lecture 3 — *Block & Inline Elements*  
+🧩 Layout behavior explained  
+📦 Block: `<div>`, `<section>`, `<article>`  
+🎯 Inline: `<span>`, `<a>`, `<em>`  
+🎨 Modify element display using CSS  
 
 ---
 
-### 🟥 **Lecture 5 — CSS Basics**  
-- 🎨 How CSS works and integrates with HTML  
-- 🧾 Inline, internal, and external CSS methods  
-- 🎯 Selectors, colors, properties, and backgrounds  
-- ✨ Enhancing typography, spacing, and visual balance  
+### 🟧 Lecture 4 — *HTML Iframes*  
+🌐 Embedding external content with `<iframe>`  
+⚙️ Attributes: `src`, `title`, `allowfullscreen`  
+🔒 Security with `sandbox` and `referrerpolicy`  
+🎞️ Example: Embed YouTube videos seamlessly  
 
 ---
 
-### 🟪 **Lecture 6 — CSS Flexbox**  
-- 🧭 Building flexible and responsive layouts  
-- ⚙️ Parent container properties: `display: flex`, `justify-content`, `align-items`  
-- 📐 Child properties: `flex-grow`, `flex-shrink`, `flex-basis`  
-- 🌈 Real-world examples: navigation bars, cards, and galleries  
+### 🟥 Lecture 5 — *CSS Basics*  
+🎨 Understanding how CSS works  
+🧾 Inline, internal, and external CSS  
+🎯 Selectors, properties, colors, and backgrounds  
+✨ Typography and spacing design  
 
 ---
 
-### 🟫 **Lecture 7 — CSS Box Model**  
-- 📦 Components of the box model: content, padding, border, margin  
-- 🔍 Understanding `box-sizing` and layout adjustments  
-- 🧠 Using Chrome DevTools for visual debugging  
-- 🎯 Achieving clean, consistent design spacing  
+### 🟪 Lecture 6 — *CSS Flexbox*  
+🧭 Create responsive and adaptive layouts  
+⚙️ Parent properties: `display: flex`, `justify-content`, `align-items`  
+📐 Child properties: `flex-grow`, `flex-shrink`, `flex-basis`  
+🌈 Use cases: navbars, cards, galleries  
 
 ---
+
+### 🟫 Lecture 7 — *CSS Box Model*  
+📦 Components: content, padding, border, margin  
+🔍 Understanding `box-sizing`  
+🧠 Visual debugging in Chrome DevTools  
+🎯 Design balance and consistency  
+
+---
+ ## 📂 Task Provided
+
+Task covered during class sessions:
+
+| Project Name | Description |
+|---------------|-------------|
+| 🌐 **HTML Page** | Basic structured webpage demonstrating semantic tags |
+| 🍽️ **Zomato Clone** | Replica of Zomato’s homepage using HTML & CSS |
+| 🕒 **Timetable** | Weekly timetable layout using tables and styling |
+| 🧾 **Card Page** | A stylish card layout built using HTML & Flexbox |
+| 🧮 **Calculator** | Interactive calculator using HTML, CSS, and JavaScript |
+| 💫 **Animation Page** | CSS animations and keyframes for smooth effects |
+| 🖱️ **Hover Effects** | Interactive hover transitions and animations |
 
 ## 🎯 Learning Outcomes  
 
-By the end of this course, you’ll be able to:  
-✅ Build clean, semantic, and accessible web pages  
-✅ Apply modern CSS techniques for responsive layouts  
-✅ Master Flexbox for structured and fluid designs  
-✅ Understand and utilize the Box Model effectively  
-✅ Collaborate using Git & GitHub like a professional  
- 
-👨‍💻 Author: GAUTAM SINGH DHAKREY 
+By the end of this course, you’ll:  
+✅ Build **semantic**, **accessible**, and **responsive** web pages  
+✅ Apply **CSS3** for creative layouts and transitions  
+✅ Master **Flexbox** for dynamic content alignment  
+✅ Understand the **Box Model** inside out  
+✅ Use **Git & GitHub** for professional collaboration  
 
-📅 Course: BridgeLabz – 3rd Year Java Practice Assignments
+---
+## 🗂 Repository Structure
+frontenddev/
+- 📘 *Lectures/* — Topic-wise examples and notes  
+- 🧩 *Assignments/* — Practice exercises and tasks  
+- 🧠 *Examples/* — Reference designs and mini-projects  
+- 📄 *README.md* — Course documentation
+
+---
+
+## 🧰 Tools & Technologies  
+
+| Tool | Purpose |
+|------|----------|
+| 🧱 **HTML5** | Structure & semantics |
+| 🎨 **CSS3** | Styling & layouts |
+| 💻 **VS Code** | Code editor |
+| 🔗 **Git & GitHub** | Version control & collaboration |
+| 🚀 **Live Server** | Real-time preview |
+
+---
+
+## 💡 Learning Tips  
+
+🌿 Keep code clean, organized, and readable  
+🧩 Comment wisely — clarity beats cleverness  
+📱 Test responsiveness across devices  
+🎨 Experiment with gradients, shadows, and animations  
+🧠 Validate HTML with [W3C Validator](https://validator.w3.org/)  
+
+---
+
+## 🤝 Mentorship  
+
+This program is proudly curated under the mentorship of:  
+👨‍🏫 **Sahil Sir** — Frontend Design & Layouts  
+👨‍🏫 **Deepak Sir** — HTML & Web Fundamentals  
+
+> Their combined guidance ensures every learner not only codes but *creates*.
+
+---
+
+<p align="center">
+  💻 <b>Designed by Gautam Singh Dhakrey</b>  
+  <br>
+  <i>“Frontend isn’t just code — it’s creativity translated into experience.”</i>
+</p>
+
+---
